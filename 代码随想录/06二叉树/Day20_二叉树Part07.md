@@ -1,3 +1,8 @@
+# Day20 · 二叉树Part07
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-17
+> CSDN 原文：[《【代码随想录Day20】二叉树Part07》](https://blog.csdn.net/weixin_43724673/article/details/142317832) · [返回目录](../README.md)
+
 ## 235. 二叉搜索树的最近公共祖先
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.html)
@@ -140,3 +145,7 @@ class Solution {
     }
 }
 ```
+
+### CSDN 原文补充配图
+
+![Day20 学习笔记配图](../assets/8ce6b89d5f76946a4796.png)

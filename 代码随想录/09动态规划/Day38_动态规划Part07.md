@@ -1,3 +1,8 @@
+# Day38 · 动态规划Part07
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-09
+> CSDN 原文：[《【代码随想录Day38】动态规划Part07》](https://blog.csdn.net/weixin_43724673/article/details/142785989) · [返回目录](../README.md)
+
 ## 198.打家劫舍
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.html)

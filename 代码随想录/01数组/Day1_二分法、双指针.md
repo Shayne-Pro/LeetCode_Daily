@@ -1,3 +1,8 @@
+# Day1 · 二分查找、移除元素、有序数组的平方
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-08-28
+> CSDN 原文：[《【代码随想录Day1】二分查找、移除元素、有序数组的平方》](https://blog.csdn.net/weixin_43724673/article/details/141652643) · [返回目录](../README.md)
+
 ## 数组理论基础
 文章讲解：[代码随想录](https://programmercarl.com/%E6%95%B0%E7%BB%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
 

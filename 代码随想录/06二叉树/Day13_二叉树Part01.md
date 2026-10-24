@@ -1,3 +1,8 @@
+# Day13 · 二叉树Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-09
+> CSDN 原文：[《【代码随想录Day13】二叉树Part01》](https://blog.csdn.net/weixin_43724673/article/details/142068095) · [返回目录](../README.md)
+
 ## 理论基础
 文章讲解：[代码随想录](https://programmercarl.com/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
 二叉树节点的定义：

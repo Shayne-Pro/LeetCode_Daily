@@ -1,3 +1,8 @@
+# Day29 · 贪心算法Part03
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-29
+> CSDN 原文：[《【代码随想录Day29】贪心算法Part03》](https://blog.csdn.net/weixin_43724673/article/details/142639637) · [返回目录](../README.md)
+
 ## 134. 加油站
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0134.%E5%8A%A0%E6%B2%B9%E7%AB%99.html)

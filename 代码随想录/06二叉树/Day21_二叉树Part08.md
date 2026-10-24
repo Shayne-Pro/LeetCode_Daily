@@ -1,3 +1,8 @@
+# Day21 · 二叉树Part08
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-18
+> CSDN 原文：[《【代码随想录Day21】二叉树Part08》](https://blog.csdn.net/weixin_43724673/article/details/142334429) · [返回目录](../README.md)
+
 ## 669. 修剪二叉搜索树
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0669.%E4%BF%AE%E5%89%AA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html)

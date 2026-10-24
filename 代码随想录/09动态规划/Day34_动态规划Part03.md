@@ -1,3 +1,8 @@
+# Day34 · 动态规划Part03
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-07
+> CSDN 原文：[《【代码随想录Day34】动态规划Part03》](https://blog.csdn.net/weixin_43724673/article/details/142746992) · [返回目录](../README.md)
+
 ## 0-1 背包问题 二维
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-1.html)

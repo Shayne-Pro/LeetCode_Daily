@@ -1,3 +1,8 @@
+# Day25 · 回溯算法Part04
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-23
+> CSDN 原文：[《【代码随想录Day25】回溯算法Part04》](https://blog.csdn.net/weixin_43724673/article/details/142466157) · [返回目录](../README.md)
+
 ## 491.递增子序列
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.html)

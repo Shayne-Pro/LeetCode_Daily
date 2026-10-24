@@ -1,3 +1,8 @@
+# Day23 · 回溯算法Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-21
+> CSDN 原文：[《【代码随想录Day23】回溯算法Part02》](https://blog.csdn.net/weixin_43724673/article/details/142419617) · [返回目录](../README.md)
+
 ## 39. 组合总和
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.html)

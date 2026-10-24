@@ -1,3 +1,8 @@
+# Day36 · 动态规划Part05
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-08
+> CSDN 原文：[《【代码随想录Day36】动态规划Part05》](https://blog.csdn.net/weixin_43724673/article/details/142763850) · [返回目录](../README.md)
+
 ## 完全背包
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.html)

@@ -1,3 +1,8 @@
+# Day14 · 二叉树Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-10
+> CSDN 原文：[《【代码随想录Day14】二叉树Part02》](https://blog.csdn.net/weixin_43724673/article/details/142110432) · [返回目录](../README.md)
+
 ## 226.翻转二叉树
 题目链接/文章讲解/视频讲解：[代码随想录](https://programmercarl.com/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.html)
 遍历二叉树，交换每个节点的左右子树。
@@ -86,3 +91,7 @@ class Solution {
     }
 }
 ```
+
+### CSDN 原文补充配图
+
+![Day14 学习笔记配图](../assets/219c7c385fe9c91c6120.png)

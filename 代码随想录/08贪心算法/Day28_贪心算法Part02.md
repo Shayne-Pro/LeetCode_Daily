@@ -1,3 +1,8 @@
+# Day28 · 贪心算法Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-25
+> CSDN 原文：[《【代码随想录Day28】贪心算法Part02》](https://blog.csdn.net/weixin_43724673/article/details/142530100) · [返回目录](../README.md)
+
 ## 122.买卖股票的最佳时机 II
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0122.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.html)

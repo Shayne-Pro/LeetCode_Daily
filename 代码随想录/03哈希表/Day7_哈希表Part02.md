@@ -1,3 +1,8 @@
+# Day7 · 哈希表Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-05
+> CSDN 原文：[《【代码随想录Day7】哈希表Part02》](https://blog.csdn.net/weixin_43724673/article/details/141941247) · [返回目录](../README.md)
+
 ## 454. 四数相加 II
 
 **题目链接/文章讲解/视频讲解：** [四数相加 II](https://programmercarl.com/0454.%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II.html)
@@ -81,7 +86,7 @@ class Solution {
 
 ### 双指针法
 
-![双指针法示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725539460935-47ee4276-b155-4cb0-91fe-9b23209356a6.png)
+![双指针法示意图](../assets/aea17996573bd1fac612.png)
 
 1. 先对数组进行排序。
 2. 使用 `i` 遍历数组。
@@ -136,7 +141,7 @@ class Solution {
 3. 比较 `sum2` 和 `balance`，若 `sum2 < balance`，则 `left` 指针右移；若 `sum2 > balance`，则 `right` 指针左移。
 4. 判重的思路与 `三数之和` 类似。
 
-![双指针法示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725540486766-e05786b6-b1cb-486a-9f31-82f819f1f82e.png)
+![双指针法示意图](../assets/04a4ac87b57648a0f833.png)
 
 ```java
 class Solution {
