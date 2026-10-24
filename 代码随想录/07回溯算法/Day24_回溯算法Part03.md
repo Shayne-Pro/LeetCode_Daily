@@ -1,3 +1,8 @@
+# Day24 · 回溯算法Part03
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-22
+> CSDN 原文：[《【代码随想录Day24】回溯算法Part03》](https://blog.csdn.net/weixin_43724673/article/details/142435605) · [返回目录](../README.md)
+
 ## 93.复原 IP 地址
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.html)

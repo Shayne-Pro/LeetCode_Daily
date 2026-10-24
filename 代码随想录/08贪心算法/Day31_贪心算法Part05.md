@@ -1,3 +1,8 @@
+# Day31 · 贪心算法Part05
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-05
+> CSDN 原文：[《【代码随想录Day31】贪心算法Part05》](https://blog.csdn.net/weixin_43724673/article/details/142720614) · [返回目录](../README.md)
+
 ## 56. 合并区间
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.html)

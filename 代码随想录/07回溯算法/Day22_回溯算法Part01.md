@@ -1,3 +1,8 @@
+# Day22 · 回溯算法Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-20
+> CSDN 原文：[《【代码随想录Day22】回溯算法Part01》](https://blog.csdn.net/weixin_43724673/article/details/142392529) · [返回目录](../README.md)
+
 ## 理论基础
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
@@ -55,7 +60,7 @@ public class BacktrackingTemplate {
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0077.%E7%BB%84%E5%90%88.html)
 视频讲解：[带你学透回溯算法-组合问题（对应力扣题目：77.组合）| 回溯法精讲！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ti4y1L7cv)
 剪枝操作：[带你学透回溯算法-组合问题的剪枝操作（对应力扣题目：77.组合）| 回溯法精讲！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1wi4y157er)
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20201123195242899.png)
+![Day22 学习笔记配图](../assets/8b784d6cf8657ea5148c.png)
 
 ```java
 class Solution {

@@ -1,3 +1,8 @@
+# Day37 · 动态规划Part06
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-08
+> CSDN 原文：[《【代码随想录Day37】动态规划Part06》](https://blog.csdn.net/weixin_43724673/article/details/142769472) · [返回目录](../README.md)
+
 ## 322. 零钱兑换
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.html)

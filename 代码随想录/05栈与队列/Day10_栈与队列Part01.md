@@ -1,7 +1,12 @@
+# Day10 · 栈与队列Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-07
+> CSDN 原文：[《【代码随想录Day10】栈与队列Part01》](https://blog.csdn.net/weixin_43724673/article/details/142006352) · [返回目录](../README.md)
+
 ## 232. 用栈实现队列
 题目链接/文章讲解/视频讲解：[用栈实现队列](https://programmercarl.com/0232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.html)
 
-![](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725716367144-32c4e186-c460-4dc6-a970-bd2835cefa37.png)
+![Day10 学习笔记配图](../assets/ec9856f4353e6a21447d.png)
 
 ```java
 class MyQueue {
@@ -53,7 +58,7 @@ class MyQueue {
 ## 225. 用队列实现栈
 题目链接/文章讲解/视频讲解：[用队列实现栈](https://programmercarl.com/0225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.html)
 
-![](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725719397386-d11ee053-b09e-4ad7-93f6-1dead0608136.png)
+![Day10 学习笔记配图](../assets/109fc6786229410dc55a.png)
 
 ```java
 class MyStack {

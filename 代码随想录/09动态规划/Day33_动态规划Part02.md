@@ -1,3 +1,8 @@
+# Day33 · 动态规划Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-06
+> CSDN 原文：[《【代码随想录Day33】动态规划Part02》](https://blog.csdn.net/weixin_43724673/article/details/142731422) · [返回目录](../README.md)
+
 ## 62.不同路径
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.html)

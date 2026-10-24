@@ -1,3 +1,8 @@
+# Day30 · 贪心算法Part04
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-05
+> CSDN 原文：[《【代码随想录Day30】贪心算法Part04》](https://blog.csdn.net/weixin_43724673/article/details/142717011) · [返回目录](../README.md)
+
 ## 452. 用最少数量的箭引爆气球
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/0452.%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.html)

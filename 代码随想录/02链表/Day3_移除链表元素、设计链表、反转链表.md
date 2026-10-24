@@ -1,3 +1,8 @@
+# Day3 · 移除链表元素、设计链表、反转链表
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-08-30
+> CSDN 原文：[《【代码随想录Day3】移除链表元素、设计链表、反转链表》](https://blog.csdn.net/weixin_43724673/article/details/141725460) · [返回目录](../README.md)
+
 ## 链表理论基础
 文章链接：[链表理论基础](https://programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
 
@@ -5,7 +10,7 @@
 题目链接/文章讲解/视频讲解：[203. 移除链表元素](https://programmercarl.com/0203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.html)
 
 ### 方法一：在链表前面加一个虚拟头节点，方便处理删除头结点的操作。
-![虚拟头节点示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1724987512732-12bd5c34-0f9a-4c23-9149-b4768965fed4.png)
+![虚拟头节点示意图](../assets/ec5f9d0d3e649245648f.png)
 
 **注意**：最后 return 头结点的时候，是 return dummyNode->next
 
@@ -40,8 +45,8 @@ class Solution {
 ### 方法二：对删除头节点的情况单独处理
 先处理头节点，再处理其他节点
 
-![删除头节点示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1724988834754-da55f9bf-ef6a-4737-9349-be384bca3c1f.png)
-![删除其他节点示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1724988844404-d16b30f9-8e1e-41d1-89db-d719f78694c2.png)
+![删除头节点示意图](../assets/abc0b1576a52dfca7dfe.png)
+![删除其他节点示意图](../assets/6645b4ead906ccb6a6ab.png)
 
 **注意**：记得判断 head 和 cur 是否为 null
 

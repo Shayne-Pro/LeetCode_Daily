@@ -1,9 +1,14 @@
+# Day4 · 链表Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-01
+> CSDN 原文：[《【代码随想录Day4】链表Part02》](https://blog.csdn.net/weixin_43724673/article/details/141789964) · [返回目录](../README.md)
+
 ## 24. 两两交换链表中的节点  
 题目链接/文章讲解/视频讲解：[24. 两两交换链表中的节点](https://programmercarl.com/0024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.html)  
   
 **使用虚拟头节点**  
 
-![](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725185616459-f70e23b9-faf0-4da2-9856-2ac24722c7f5.png)  
+![Day4 学习笔记配图](../assets/29abc6ab5358c854827c.png)
 
 ```java
 /**  
@@ -112,7 +117,7 @@ class Solution {
   
 我们求出两个链表的长度，并求出长度的差值，然后让 `curA` 移动到和 `curB` 末尾对齐的位置，如图：  
 
-![](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725188950652-379d6301-f074-46d8-ba6d-4e38526c3823.png)  
+![Day4 学习笔记配图](../assets/71b7ff12d4bb43c5ebab.png)
   
 此时可以比较 `curA` 和 `curB` 是否相同，如果不相同，同时向后移动 `curA` 和 `curB`，如果遇到 `curA == curB`，则找到交点。  
   
@@ -174,7 +179,7 @@ public class Solution {
 ## 142. 环形链表II   
 题目链接/文章讲解/视频讲解：[环形链表II](https://programmercarl.com/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.html)  
   
-![](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725195003792-08fe8453-79e7-4a5c-a278-d25be16d65e3.png)  
+![Day4 学习笔记配图](../assets/913bc5c2a0327e820cde.png)
   
 **双指针**  
 用 `slow` 指针（每次移动一个节点）和 `fast` 指针（每次移动两个节点）找到相遇点。  
@@ -216,4 +221,4 @@ public class Solution {
 ```  
   
 ## 链表总结  
-[链表总结](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E6%80%BB%E7%BB%93%E7%AF%87.html)  
+[链表总结](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E6%80%BB%E7%BB%93%E7%AF%87.html)

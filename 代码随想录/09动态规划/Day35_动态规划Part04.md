@@ -1,3 +1,8 @@
+# Day35 · 动态规划Part04
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-10-08
+> CSDN 原文：[《【代码随想录Day35】动态规划Part04》](https://blog.csdn.net/weixin_43724673/article/details/142756996) · [返回目录](../README.md)
+
 ## 1049. 最后一块石头的重量 II
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.html)

@@ -1,3 +1,8 @@
+# Day9 · 字符串Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-07
+> CSDN 原文：[《【代码随想录Day9】字符串Part02》](https://blog.csdn.net/weixin_43724673/article/details/141996483) · [返回目录](../README.md)
+
 ## 151. 翻转字符串里的单词
 
 解题思路如下：
@@ -69,7 +74,7 @@ public class Solution {
 
 题目链接/文章讲解：[卡码网：55.右旋转字符串](https://programmercarl.com/kama55.%E5%8F%B3%E6%97%8B%E5%AD%97%E7%AC%A6%E4%B8%B2.html)
 
-![右旋转字符串示例](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725692332610-33221cd1-75f8-44b6-b42a-1735facb17db.png)
+![右旋转字符串示例](../assets/4b9338897117d159a6d0.png)
 
 ```java
 import java.util.Scanner;

@@ -1,3 +1,8 @@
+# Day6 · 哈希表Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-02
+> CSDN 原文：[《【代码随想录Day6】哈希表Part01｜判断一个元素是否出现集合里》](https://blog.csdn.net/weixin_43724673/article/details/141822062) · [返回目录](../README.md)
+
 ## 哈希表理论基础
 文章讲解：[哈希表理论基础](https://programmercarl.com/%E5%93%88%E5%B8%8C%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
 

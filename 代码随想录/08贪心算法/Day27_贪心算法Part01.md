@@ -1,3 +1,8 @@
+# Day27 · 贪心算法Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-24
+> CSDN 原文：[《【代码随想录Day27】贪心算法Part01》](https://blog.csdn.net/weixin_43724673/article/details/142498724) · [返回目录](../README.md)
+
 ## 理论基础
 
 题目链接/文章讲解：[代码随想录](https://programmercarl.com/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)

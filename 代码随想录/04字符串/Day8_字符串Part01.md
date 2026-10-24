@@ -1,3 +1,8 @@
+# Day8 · 字符串Part01
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-06
+> CSDN 原文：[《【代码随想录Day8】字符串Part01｜各种双指针练习》](https://blog.csdn.net/weixin_43724673/article/details/141947556) · [返回目录](../README.md)
+
 ## 344. 反转字符串
 题目链接/文章讲解/视频讲解：[反转字符串](https://programmercarl.com/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.html)
 
@@ -52,7 +57,7 @@ class Solution {
 ### 双指针：从后向前替换数字字符
 也就是双指针法，过程如下：`i` 指向新长度的末尾，`j` 指向旧长度的末尾.
 
-![替换数字示意图](https://cdn.nlark.com/yuque/0/2024/png/32698236/1725550684247-c7ea33dc-6630-4f56-b02e-262ddc339275.png)
+![替换数字示意图](../assets/14d96e8f652b4d6985e8.png)
 
 ```java
 import java.util.*;

@@ -1,3 +1,8 @@
+# Day11 · 栈与队列Part02
+
+> 作者：[夜雨翦春韭（Shayne-Pro）](https://blog.csdn.net/weixin_43724673) · 原文发布：2024-09-08
+> CSDN 原文：[《【代码随想录Day11】栈与队列Part02》](https://blog.csdn.net/weixin_43724673/article/details/142031024) · [返回目录](../README.md)
+
 ## 150.逆波兰表达式求值
 
 题目链接/文章讲解/视频讲解：[逆波兰表达式求值](https://programmercarl.com/0150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.html)
@@ -100,7 +105,7 @@ class Solution {
 因为要统计最大前k个元素，只有小顶堆每次将最小的元素弹出，最后小顶堆里积累的才是前k个最大元素。
 
 
-​![image](attachment/image-20240908184144-6907p2c.png)​
+​![image](../assets/cb1a94993303df3f9573.png)​
 
 ```java
 class Solution {
